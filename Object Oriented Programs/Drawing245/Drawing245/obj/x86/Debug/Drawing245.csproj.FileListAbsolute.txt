@@ -1,0 +1,10 @@
+E:\Object Oriented Programs\Drawing245\Drawing245\bin\Debug\Drawing245.exe
+E:\Object Oriented Programs\Drawing245\Drawing245\bin\Debug\Drawing245.pdb
+E:\Object Oriented Programs\Drawing245\Drawing245\obj\x86\Debug\Drawing245.csprojResolveAssemblyReference.cache
+E:\Object Oriented Programs\Drawing245\Drawing245\obj\x86\Debug\Drawing245.Form1.resources
+E:\Object Oriented Programs\Drawing245\Drawing245\obj\x86\Debug\Drawing245.Properties.Resources.resources
+E:\Object Oriented Programs\Drawing245\Drawing245\obj\x86\Debug\Drawing245.csproj.GenerateResource.Cache
+E:\Object Oriented Programs\Drawing245\Drawing245\obj\x86\Debug\Drawing245.exe
+E:\Object Oriented Programs\Drawing245\Drawing245\obj\x86\Debug\Drawing245.pdb
+H:\Object Oriented Programs\Drawing245\Drawing245\obj\x86\Debug\Drawing245.exe
+H:\Object Oriented Programs\Drawing245\Drawing245\obj\x86\Debug\Drawing245.pdb

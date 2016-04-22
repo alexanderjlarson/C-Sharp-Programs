@@ -1,0 +1,5 @@
+c:\users\wsguest\documents\visual studio 2010\Projects\BasicMath\BasicMath\bin\Debug\BasicMath.exe
+c:\users\wsguest\documents\visual studio 2010\Projects\BasicMath\BasicMath\bin\Debug\BasicMath.pdb
+c:\users\wsguest\documents\visual studio 2010\Projects\BasicMath\BasicMath\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\wsguest\documents\visual studio 2010\Projects\BasicMath\BasicMath\obj\x86\Debug\BasicMath.exe
+c:\users\wsguest\documents\visual studio 2010\Projects\BasicMath\BasicMath\obj\x86\Debug\BasicMath.pdb

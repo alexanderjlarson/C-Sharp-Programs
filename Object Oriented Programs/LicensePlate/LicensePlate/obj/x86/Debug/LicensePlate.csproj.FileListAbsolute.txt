@@ -1,0 +1,5 @@
+c:\users\wsguest\documents\visual studio 2010\Projects\LicensePlate\LicensePlate\bin\Debug\LicensePlate.exe
+c:\users\wsguest\documents\visual studio 2010\Projects\LicensePlate\LicensePlate\bin\Debug\LicensePlate.pdb
+c:\users\wsguest\documents\visual studio 2010\Projects\LicensePlate\LicensePlate\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\wsguest\documents\visual studio 2010\Projects\LicensePlate\LicensePlate\obj\x86\Debug\LicensePlate.exe
+c:\users\wsguest\documents\visual studio 2010\Projects\LicensePlate\LicensePlate\obj\x86\Debug\LicensePlate.pdb

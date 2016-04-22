@@ -1,0 +1,7 @@
+E:\Object Oriented Programs\GuitarDB\GuitarDB\bin\Debug\GuitarDB.exe
+E:\Object Oriented Programs\GuitarDB\GuitarDB\bin\Debug\GuitarDB.pdb
+E:\Object Oriented Programs\GuitarDB\GuitarDB\obj\x86\Debug\GuitarDB.exe
+E:\Object Oriented Programs\GuitarDB\GuitarDB\obj\x86\Debug\GuitarDB.pdb
+E:\Object Oriented Programs\GuitarDB\GuitarDB\obj\x86\Debug\GuitarDB.csprojResolveAssemblyReference.cache
+H:\Object Oriented Programs\GuitarDB\GuitarDB\obj\x86\Debug\GuitarDB.exe
+H:\Object Oriented Programs\GuitarDB\GuitarDB\obj\x86\Debug\GuitarDB.pdb

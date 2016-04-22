@@ -1,0 +1,5 @@
+c:\users\wsguest\documents\visual studio 2010\Projects\madlibsoo\madlibsoo\bin\Debug\madlibsoo.exe
+c:\users\wsguest\documents\visual studio 2010\Projects\madlibsoo\madlibsoo\bin\Debug\madlibsoo.pdb
+c:\users\wsguest\documents\visual studio 2010\Projects\madlibsoo\madlibsoo\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\wsguest\documents\visual studio 2010\Projects\madlibsoo\madlibsoo\obj\x86\Debug\madlibsoo.exe
+c:\users\wsguest\documents\visual studio 2010\Projects\madlibsoo\madlibsoo\obj\x86\Debug\madlibsoo.pdb

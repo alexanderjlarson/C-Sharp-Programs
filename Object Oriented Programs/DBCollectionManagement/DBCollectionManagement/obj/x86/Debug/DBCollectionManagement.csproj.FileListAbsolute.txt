@@ -1,0 +1,6 @@
+C:\Users\Alex\documents\visual studio 2010\Projects\DBCollectionManagement\DBCollectionManagement\obj\x86\Debug\DBCollectionManagement.csprojResolveAssemblyReference.cache
+C:\Users\Alex\documents\visual studio 2010\Projects\DBCollectionManagement\DBCollectionManagement\bin\Debug\DBCollectionManagement.exe
+C:\Users\Alex\documents\visual studio 2010\Projects\DBCollectionManagement\DBCollectionManagement\bin\Debug\DBCollectionManagement.pdb
+C:\Users\Alex\documents\visual studio 2010\Projects\DBCollectionManagement\DBCollectionManagement\bin\Debug\MySql.Data.dll
+C:\Users\Alex\documents\visual studio 2010\Projects\DBCollectionManagement\DBCollectionManagement\obj\x86\Debug\DBCollectionManagement.exe
+C:\Users\Alex\documents\visual studio 2010\Projects\DBCollectionManagement\DBCollectionManagement\obj\x86\Debug\DBCollectionManagement.pdb

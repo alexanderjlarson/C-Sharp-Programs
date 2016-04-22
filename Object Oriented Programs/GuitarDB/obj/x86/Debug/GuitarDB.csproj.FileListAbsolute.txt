@@ -1,0 +1,15 @@
+C:\Users\raymo_000\AppData\Local\Temporary Projects\GuitarDB\bin\Debug\GuitarDB.exe
+C:\Users\raymo_000\AppData\Local\Temporary Projects\GuitarDB\bin\Debug\GuitarDB.pdb
+C:\Users\raymo_000\AppData\Local\Temporary Projects\GuitarDB\bin\Debug\MySql.Data.dll
+C:\Users\raymo_000\AppData\Local\Temporary Projects\GuitarDB\obj\x86\Debug\GuitarDB.exe
+C:\Users\raymo_000\AppData\Local\Temporary Projects\GuitarDB\obj\x86\Debug\GuitarDB.pdb
+C:\Users\raymo_000\documents\visual studio 2010\Projects\GuitarDB\obj\x86\Debug\GuitarDB.exe
+C:\Users\raymo_000\documents\visual studio 2010\Projects\GuitarDB\obj\x86\Debug\GuitarDB.pdb
+C:\Users\raymo_000\Documents\Visual Studio 2010\Projects\GuitarDB\bin\Debug\GuitarDB.exe
+C:\Users\raymo_000\Documents\Visual Studio 2010\Projects\GuitarDB\bin\Debug\GuitarDB.pdb
+C:\Users\raymo_000\Documents\Visual Studio 2010\Projects\GuitarDB\bin\Debug\MySql.Data.dll
+C:\Users\raymo_000\Documents\Visual Studio 2010\Projects\GuitarDB\obj\x86\Debug\GuitarDB.csprojResolveAssemblyReference.cache
+C:\Users\wsguest\Documents\Visual Studio 2010\Projects\GuitarDB\obj\x86\Debug\GuitarDB.exe
+C:\Users\wsguest\Documents\Visual Studio 2010\Projects\GuitarDB\obj\x86\Debug\GuitarDB.pdb
+E:\Object Oriented Programs\GuitarDB\obj\x86\Debug\GuitarDB.exe
+E:\Object Oriented Programs\GuitarDB\obj\x86\Debug\GuitarDB.pdb

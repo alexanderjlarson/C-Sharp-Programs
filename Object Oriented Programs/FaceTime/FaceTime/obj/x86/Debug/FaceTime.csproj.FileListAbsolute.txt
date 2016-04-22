@@ -1,0 +1,7 @@
+C:\Users\wsguest\documents\visual studio 2010\Projects\FaceTime\FaceTime\bin\Debug\FaceTime.exe
+C:\Users\wsguest\documents\visual studio 2010\Projects\FaceTime\FaceTime\bin\Debug\FaceTime.pdb
+C:\Users\wsguest\documents\visual studio 2010\Projects\FaceTime\FaceTime\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\wsguest\documents\visual studio 2010\Projects\FaceTime\FaceTime\obj\x86\Debug\FaceTime.exe
+C:\Users\wsguest\documents\visual studio 2010\Projects\FaceTime\FaceTime\obj\x86\Debug\FaceTime.pdb
+E:\Object Oriented Programs\FaceTime\FaceTime\obj\x86\Debug\FaceTime.exe
+E:\Object Oriented Programs\FaceTime\FaceTime\obj\x86\Debug\FaceTime.pdb

@@ -1,0 +1,5 @@
+C:\Users\wsguest\documents\visual studio 2010\Projects\randomMailMerge\randomMailMerge\bin\Debug\randomMailMerge.exe
+C:\Users\wsguest\documents\visual studio 2010\Projects\randomMailMerge\randomMailMerge\bin\Debug\randomMailMerge.pdb
+C:\Users\wsguest\documents\visual studio 2010\Projects\randomMailMerge\randomMailMerge\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\wsguest\documents\visual studio 2010\Projects\randomMailMerge\randomMailMerge\obj\x86\Debug\randomMailMerge.exe
+C:\Users\wsguest\documents\visual studio 2010\Projects\randomMailMerge\randomMailMerge\obj\x86\Debug\randomMailMerge.pdb

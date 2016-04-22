@@ -1,0 +1,5 @@
+C:\Users\raymo_000\AppData\Local\Temporary Projects\GuitarDB\bin\Release\GuitarDB.exe
+C:\Users\raymo_000\AppData\Local\Temporary Projects\GuitarDB\bin\Release\GuitarDB.pdb
+C:\Users\raymo_000\AppData\Local\Temporary Projects\GuitarDB\bin\Release\MySql.Data.dll
+C:\Users\raymo_000\AppData\Local\Temporary Projects\GuitarDB\obj\x86\Release\GuitarDB.exe
+C:\Users\raymo_000\AppData\Local\Temporary Projects\GuitarDB\obj\x86\Release\GuitarDB.pdb

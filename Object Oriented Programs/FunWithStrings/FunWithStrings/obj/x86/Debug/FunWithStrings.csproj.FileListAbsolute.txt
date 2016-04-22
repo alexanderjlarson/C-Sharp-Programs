@@ -1,0 +1,5 @@
+c:\users\wsguest\documents\visual studio 2010\Projects\FunWithStrings\FunWithStrings\bin\Debug\FunWithStrings.exe
+c:\users\wsguest\documents\visual studio 2010\Projects\FunWithStrings\FunWithStrings\bin\Debug\FunWithStrings.pdb
+c:\users\wsguest\documents\visual studio 2010\Projects\FunWithStrings\FunWithStrings\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\wsguest\documents\visual studio 2010\Projects\FunWithStrings\FunWithStrings\obj\x86\Debug\FunWithStrings.exe
+c:\users\wsguest\documents\visual studio 2010\Projects\FunWithStrings\FunWithStrings\obj\x86\Debug\FunWithStrings.pdb

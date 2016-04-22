@@ -1,0 +1,5 @@
+c:\users\wsguest\documents\visual studio 2010\Projects\ListofNumbers\ListofNumbers\bin\Debug\ListofNumbers.exe
+c:\users\wsguest\documents\visual studio 2010\Projects\ListofNumbers\ListofNumbers\bin\Debug\ListofNumbers.pdb
+c:\users\wsguest\documents\visual studio 2010\Projects\ListofNumbers\ListofNumbers\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\wsguest\documents\visual studio 2010\Projects\ListofNumbers\ListofNumbers\obj\x86\Debug\ListofNumbers.exe
+c:\users\wsguest\documents\visual studio 2010\Projects\ListofNumbers\ListofNumbers\obj\x86\Debug\ListofNumbers.pdb
